@@ -1,0 +1,271 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.6">
+  <diagram name="Page-1" id="ciELTBnprLhQ0e5nwsJn">
+    <mxGraphModel dx="2298" dy="1284" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hxHV7sQrYBiLCwiitGut-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hxHV7sQrYBiLCwiitGut-1" target="hxHV7sQrYBiLCwiitGut-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-1" value="Sales" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="20" y="30" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hxHV7sQrYBiLCwiitGut-4" target="hxHV7sQrYBiLCwiitGut-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-4" value="SO Form" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="150" y="30" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-6" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 153));&quot;&gt;เปิด&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="89" y="28" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hxHV7sQrYBiLCwiitGut-7" target="hxHV7sQrYBiLCwiitGut-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hxHV7sQrYBiLCwiitGut-7" target="hxHV7sQrYBiLCwiitGut-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-7" value="Check Form" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="150" y="150" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-9" value="สอบถาม Stock จาก Inventory โดยตรง" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="321" y="150" width="209" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-11" value="กด Not Confirm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=light-dark(#000000,#FF3333);" vertex="1" parent="1">
+          <mxGeometry x="200" y="148" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hxHV7sQrYBiLCwiitGut-12" target="hxHV7sQrYBiLCwiitGut-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-12" value="รับ SO Form" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="150" y="280" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-14" value="&lt;font style=&quot;&quot;&gt;กด Confirm&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=light-dark(#000000,#00FF00);rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="98" y="219" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hxHV7sQrYBiLCwiitGut-15" target="hxHV7sQrYBiLCwiitGut-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-15" value="Inventory" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="10" y="280" width="64" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-17" value="ดำเนินการ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="74" y="277" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hxHV7sQrYBiLCwiitGut-18" target="hxHV7sQrYBiLCwiitGut-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hxHV7sQrYBiLCwiitGut-18" target="hxHV7sQrYBiLCwiitGut-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-18" value="Check&lt;div&gt;สินค้า&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="150" y="359" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hxHV7sQrYBiLCwiitGut-22" target="hxHV7sQrYBiLCwiitGut-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-22" value="หาสินค้าใน Stock" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="150" y="479" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hxHV7sQrYBiLCwiitGut-24" target="hxHV7sQrYBiLCwiitGut-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-24" value="ส่ง Email กลับไปยัง &lt;b&gt;&lt;u&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 153, 0));&quot;&gt;Sales&lt;/font&gt;&lt;/u&gt;&lt;/b&gt; ว่า&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 0, 0));&quot;&gt;ของหมด Stock!&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="490" y="359" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-26" value="มีสินค้า" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=light-dark(#000000,#00FF00);" vertex="1" parent="1">
+          <mxGeometry x="122" y="418" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-27" value="สินค้าหมด" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=light-dark(#000000,#FF3333);" vertex="1" parent="1">
+          <mxGeometry x="230" y="354" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hxHV7sQrYBiLCwiitGut-28" target="hxHV7sQrYBiLCwiitGut-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-28" value="ส่ง Email กลับไปยัง &lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 153, 0));&quot;&gt;&lt;u&gt;&lt;b&gt;Sales&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(204, 102, 0));&quot;&gt;1. ว่ามีของใน Stock จริง&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(204, 102, 0));&quot;&gt;2. ให้&lt;/font&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 153, 0));&quot;&gt;&lt;b&gt;&lt;u&gt;ฝ่ายที่เกี่ยวข้อง&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(204, 102, 0));&quot;&gt;ทำเรื่องเบิก เพื่อนำไปใช้งาน/จำหน่ายต่อไป&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;align=left;" vertex="1" parent="1">
+          <mxGeometry x="95" y="599" width="160" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-30" value="Confirmed โดย&amp;nbsp;&lt;div&gt;Inventory&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=light-dark(#000000,#00FF00);" vertex="1" parent="1">
+          <mxGeometry x="74" y="540" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hxHV7sQrYBiLCwiitGut-31" target="hxHV7sQrYBiLCwiitGut-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-31" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 153, 0));&quot;&gt;&lt;u&gt;&lt;b&gt;ฝ่ายที่เกี่ยวข้อง&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;ทำเรื่องเบิก + ส่งไปยัง Inventory" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;align=center;" vertex="1" parent="1">
+          <mxGeometry x="103.75" y="720" width="142.5" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hxHV7sQrYBiLCwiitGut-33" target="hxHV7sQrYBiLCwiitGut-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-33" value="QC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="161.5" y="820" width="27" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-35" value="ส่งไปให้" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="780" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hxHV7sQrYBiLCwiitGut-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="175" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-37" value="QC Inspecting" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="145" y="880" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hxHV7sQrYBiLCwiitGut-41" target="hxHV7sQrYBiLCwiitGut-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-41" value="ส่ง Email กลับไปยัง &lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 153, 0));&quot;&gt;&lt;u&gt;&lt;b&gt;Sales&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#cc6600&quot;&gt;ว่าผ่านการ QC Inspecting&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;align=left;" vertex="1" parent="1">
+          <mxGeometry x="103.75" y="1000" width="145" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-42" value="Confirmed โดย&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(0, 255, 0));&quot;&gt;QC&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=light-dark(#000000,#00FF00);" vertex="1" parent="1">
+          <mxGeometry x="58" y="939" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-43" value="ส่งมอบสินค้า" style="whiteSpace=wrap;html=1;align=center;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="139.13" y="1120" width="73.75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hxHV7sQrYBiLCwiitGut-45" target="hxHV7sQrYBiLCwiitGut-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-45" value="ส่ง Email ไปยัง &lt;font color=&quot;#009900&quot;&gt;&lt;b&gt;&lt;u&gt;ฝ่ายผลิต&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&amp;nbsp;&lt;div&gt;ให้&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(204, 102, 0));&quot;&gt;ดำเนินการสั่งผลิต&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="480" y="479" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hxHV7sQrYBiLCwiitGut-47" target="hxHV7sQrYBiLCwiitGut-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-47" value="ฝ่ายผลิต" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="680" y="559" width="64" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hxHV7sQrYBiLCwiitGut-48" target="hxHV7sQrYBiLCwiitGut-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-48" value="รับ Order" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="525" y="559" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-50" value="ดำเนินการ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="559" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hxHV7sQrYBiLCwiitGut-52" target="hxHV7sQrYBiLCwiitGut-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-52" value="พิจารณา Order" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="525" y="640" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hxHV7sQrYBiLCwiitGut-54" target="hxHV7sQrYBiLCwiitGut-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-54" value="วางแผน + เตรียมชิ้นส่วนที่ต้องส่งให้ &lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(204, 0, 102));&quot;&gt;Subcontractor&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="427.5" y="761" width="255" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-56" value="Confirmed การผลิตโดย ฝ่ายผลิต" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=light-dark(#000000,#00FF00);" vertex="1" parent="1">
+          <mxGeometry x="554" y="700" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hxHV7sQrYBiLCwiitGut-57" target="hxHV7sQrYBiLCwiitGut-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-57" value="ส่ง Email ไปยัง &lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 153, 0));&quot;&gt;&lt;u&gt;&lt;b&gt;ฝ่ายจัดซื้อ&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;div&gt;ให้เปิด PO ไปที่ &lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(204, 0, 102));&quot;&gt;Subcontractor&lt;/font&gt; &lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 0, 0));&quot;&gt;เพื่อสั่งผลิต&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="427.5" y="881" width="255" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hxHV7sQrYBiLCwiitGut-59" target="hxHV7sQrYBiLCwiitGut-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-59" value="- รับเรื่อง&lt;div&gt;- เปิด PO ไปที่&amp;nbsp;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(204, 0, 102));&quot;&gt;Subcontractor&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;align=left;" vertex="1" parent="1">
+          <mxGeometry x="474.38" y="1000" width="161.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hxHV7sQrYBiLCwiitGut-61" target="hxHV7sQrYBiLCwiitGut-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-61" value="ฝ่ายจัดซื้อ" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="720" y="1010.5" width="60" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-64" value="ดำเนินการ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="645" y="998" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hxHV7sQrYBiLCwiitGut-65" target="hxHV7sQrYBiLCwiitGut-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-65" value="Inventory" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="525" y="1090" width="60" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-67" value="ส่ง PO Form ไปยัง" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="551" y="1048" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hxHV7sQrYBiLCwiitGut-68">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="1307" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hxHV7sQrYBiLCwiitGut-68">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="1307" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-68" value="พิจารณา PO Form" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="525.01" y="1207" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-73" value="Confirm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=light-dark(#000000,#00FF00);" vertex="1" parent="1">
+          <mxGeometry x="440" y="1247" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-76" value="Stock Not Available" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=light-dark(#000000,#FF3333);" vertex="1" parent="1">
+          <mxGeometry x="600" y="1247" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hxHV7sQrYBiLCwiitGut-77" target="hxHV7sQrYBiLCwiitGut-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-77" value="กด Validate รายการเพื่อตัดออกระบบ" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;align=center;" vertex="1" parent="1">
+          <mxGeometry x="425" y="1307" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-78" value="ส่ง Email ไปยัง &lt;font color=&quot;#009900&quot;&gt;&lt;u style=&quot;font-weight: bold;&quot;&gt;ฝ่ายที่เกี่ยวข้อง &amp;amp; ฝ่ายจัดซื้อ&amp;nbsp;&lt;/u&gt;&lt;/font&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 51, 51)); background-color: transparent;&quot;&gt;เพื่อซื้อของเข้า Stock&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;align=center;" vertex="1" parent="1">
+          <mxGeometry x="558.5" y="1307" width="181" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hxHV7sQrYBiLCwiitGut-79" target="hxHV7sQrYBiLCwiitGut-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-79" value="รับ Order สั่งจ่ายชิ้นส่วนให้ &lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(204, 0, 102));&quot;&gt;Subcontractor&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;align=left;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1140" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hxHV7sQrYBiLCwiitGut-83" target="hxHV7sQrYBiLCwiitGut-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-83" value="ฝ่ายผลิต" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="448" y="1400" width="64" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-86" value="แจ้ง" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1358" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hxHV7sQrYBiLCwiitGut-89" target="hxHV7sQrYBiLCwiitGut-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-89" value="เบิกชิ้นส่วน + จัดส่งไปยัง &lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(204, 0, 102));&quot;&gt;Subcontractor&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;align=center;" vertex="1" parent="1">
+          <mxGeometry x="425" y="1520" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-92" value="ดำเนินการ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1460" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hxHV7sQrYBiLCwiitGut-93" target="hxHV7sQrYBiLCwiitGut-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-93" value="- ติดตามสถานะ&lt;div&gt;- รายงานทุก Week จนได้รับสินค้าจาก &lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 0, 77));&quot;&gt;Subcontractor&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;align=left;" vertex="1" parent="1">
+          <mxGeometry x="347.5" y="1600" width="265" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hxHV7sQrYBiLCwiitGut-95" target="hxHV7sQrYBiLCwiitGut-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-95" value="Inventory" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="645" y="1690.5" width="60" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hxHV7sQrYBiLCwiitGut-96" target="hxHV7sQrYBiLCwiitGut-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-96" value="รับของเข้าคลัง + บันทึกลง Stock" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;align=left;" vertex="1" parent="1">
+          <mxGeometry x="393.75" y="1680" width="172.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-100" value="ดำเนินการ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="575" y="1678" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHV7sQrYBiLCwiitGut-103" value="ส่งไปให้" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="212.88" y="801" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
